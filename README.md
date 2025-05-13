@@ -17,3 +17,6 @@ dan UART2 (penerima) akan menerima data itu melalui pin RX (Receive).
 | **Data Bits**   | Isi informasi yang dikirim (biasanya 7 atau 8 bit)   |
 | **Parity Bit**  | Opsional. Untuk cek kesalahan (paritas genap/ganjil) |
 | **Stop Bit(s)** | Menandakan akhir pengiriman (logika 1)               |
+
+Simulasi Komunikasi UART dengan Tinkercad
+link https://www.tinkercad.com/things/9lfTEWN86uj-uart-simulation?sharecode=CI31CeNw1NYqlYEFtjRwtcZY-Txehb8esrk1q3Q6_RE
