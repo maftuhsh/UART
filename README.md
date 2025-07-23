@@ -1,5 +1,4 @@
-# UART
-Komunikasi UART Modul V Sistem Embeeded Dasar
+# UART (Universal Asynchronous Receiver/Transmitter)
 
 Komunikasi Digital : Komunikasi digital adalah teknologi yang berbasis sinyal elektrik komputer, 
 sinyalnya bersifat terputus-putus dan menggunakan sistem bilangan biner. Bilangan 
